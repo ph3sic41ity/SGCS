@@ -19,6 +19,7 @@ Necessary features:
 5a)	In the beginning, there will simply be lists.
 5b)	Eventually, I will want to encorporate a physical map to do positions / orientations visually.
 
+(git text: tiny change for change's sake)
 
 OOP ideas.... (Very incomplete)
 
