@@ -15,17 +15,10 @@ class fleet{
 	// Constructor
 	public function __construct($in_name, $in_allegiance) {
 		$this->name = $in_name;
-<<<<<<< HEAD
-		$this->allegiance = $in_allegiance
-		$this->location = 'La-la land' // This produces an error! -_-
-		$this->maximum_speed = 0.0
-		$this->commander = 0.0
-=======
 		$this->allegiance = $in_allegiance;
 		$this->location = 'La-la land';
 		$this->maximum_speed = 0.0;
 		$this->commander = 0.0;
->>>>>>> clocal
 		$ships->ships = array();
 	}
 	
